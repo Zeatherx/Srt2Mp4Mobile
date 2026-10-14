@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.platform_scaffold_6uuug3s2/.platform_scaffold_6uuug3s2.iml" filepath="$PROJECT_DIR$/.platform_scaffold_6uuug3s2/.platform_scaffold_6uuug3s2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Srt2Mp4Mobile.iml" filepath="$PROJECT_DIR$/.idea/Srt2Mp4Mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/android.iml" filepath="$PROJECT_DIR$/android/android.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+Created with the built-in image_gen tool from app_icon_original.png.
+The original launcher artwork is preserved as app_icon_original.png.
+
+Final edit prompt:
+Edit the supplied transparent logo PNG only by resizing and positioning the entire existing raster as one group. Preserve every emblem shape, color, and exact lettering 'SRT2MP4' and 'MOBILE'. Do not redraw, restyle, add shadows, or change the artwork. Reduce the ENTIRE existing visible group uniformly by 15% relative to its current size and shift it UP so its visible bounding box is vertically centered on the square canvas. Keep at least 23% completely transparent margin at left and right and about 25% margin at top and bottom. All nontransparent pixels, including text edges and any antialiasing, MUST lie inside a centered circle with diameter 60% of the full canvas. Canvas must remain square with genuine transparent alpha everywhere outside the logo group. This is Android 12 splash foreground safe-zone preparation; the key requirement is that nothing can be clipped by the centered 66.67%-diameter system circular mask.
